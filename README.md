@@ -1,7 +1,7 @@
 # World-Happiness-Report
 
   <i>Note: The interactive and animated version dashboard for this data can be found at:
-  https://public.tableau.com/profile/am1612#!/vizhome/WorldHapinessReport_15890778885510/Story1
+  https://public.tableau.com/profile/am1612#!/vizhome/WorldHapinessReport_15890778885510/Story1</i>
 
 <b>About the Data:
 
