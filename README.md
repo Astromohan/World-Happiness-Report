@@ -3,7 +3,7 @@
   <i>Note: The interactive and animated version dashboard for this data can be found at:
   https://public.tableau.com/profile/am1612#!/vizhome/WorldHapinessReport_15890778885510/Story1</i>
 
-<b>About the Data:
+<b>About the Data:</b>
 
   The dataset used is from the World Happiness Report spanning from years 2015 to 2019. This dataset ranks 158 countries around the world based on Happiness scores. The values for   the factors are obtained after averaging the response to objective questions from people taking the Gallup World Poll. 
 
@@ -17,7 +17,7 @@ The six major factors are:
   
   The sum of the value of these factors gives us the happiness score on which countries are ranked. 
 
-<b>Aim of the project:
+<b>Aim of the project:</b>
 
 Analyzing a country’s ‘Happiness level’ performance over time can be a good indicator as to finding out answers to some questions like: 
 
@@ -25,7 +25,7 @@ Analyzing a country’s ‘Happiness level’ performance over time can be a goo
   - Does the government play a role in determining the happiness of the people in that country?
   - Do richer countries always have happier people?
 
-<b>Conlusion:
+<b>Conlusion:</b>
 
 Studying happiness is something that is difficult to measure and analyze, as there are too many variables to consider and there is always a level of uncertainty involved in measuring an individuals happiness let alone considering the happiness of an entire nation is a big feat to talk about. 
 However, with the factors already in place to calculate the happiness scores, there are proven correlations between the happiness scores and the success stories or failures of countries, and it is important governments worldwide look at these scores seriously as it could ultimately lead to better policing and well-being of its people!
