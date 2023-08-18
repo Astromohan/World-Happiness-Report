@@ -25,7 +25,7 @@ Analyzing a country’s ‘Happiness level’ performance over time can be a goo
   - Does the government play a role in determining the happiness of the people in that country?
   - Do richer countries always have happier people?
 
-<b>Conlusion:</b>
+<b>Conclusion:</b>
 
 Studying happiness is something that is difficult to measure and analyze, as there are too many variables to consider and there is always a level of uncertainty involved in measuring an individuals happiness let alone considering the happiness of an entire nation is a big feat to talk about. 
 However, with the factors already in place to calculate the happiness scores, there are proven correlations between the happiness scores and the success stories or failures of countries, and it is important governments worldwide look at these scores seriously as it could ultimately lead to better policing and well-being of its people!
